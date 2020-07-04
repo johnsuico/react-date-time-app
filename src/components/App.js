@@ -1,5 +1,5 @@
 import React from 'react';
-import DateTime from './DateTime';
+import DateTime from './DateTime/DateTime';
 
 function App() {
   return (
